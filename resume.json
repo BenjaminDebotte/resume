@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Benjamin Debotté",
+    "label": "Freelance - Ingénieur DevOps & Consultant",
+    "picture": "https://www.bdbt.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.e54445e7.png&w=3840&q=75",
+    "email": "contact@bdbt.dev",
+    "phone": "+33616215189",
+    "website": "https://bdbt.dev/",
+    "summary": "Ingénieur DevOps au profil instigateur, proactif et dynamique. J'ai dirigé pendant 6 ans, en qualité de chef d'équipe, la section 'Data Automation' chez LibertyGlobal à Amsterdam, où nous gérons les solutions automatisées de l' 'Operational Data Hub', notre plateforme de Big-Data internationale. Je développe des solutions automatisées répondant aux besoins d'équipes variées, prône les bonnes pratiques de l'industrie et conçois des architectures logicielles complexes en NodeJS, Python et autres. Entre autres, j'ai développé des applications full-stack, des infrastructures d'intégration continue, formé des équipes, amélioré la sécurité ou, plus largement, automatisé un maximum de processus.",
+    "location": {
+      "address": "",
+      "postalCode": "14000",
+      "city": "Caen",
+      "countryCode": "FR",
+      "region": "Calvados"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "BenjaminDebotte",
+        "url": "https://github.com/BenjaminDebotte/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Benjamin Debotte",
+        "url": "https://www.linkedin.com/in/benjamin-debotte"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BDBT",
+      "position": "Consultant & Ingénieur DevOps",
+      "website": "https://bdbt.dev/",
+      "startDate": "2024-02-01",
+      "summary": "Ingénieur DevOps avec 10 ans d'expérience dans de grandes et moyennes entreprises - Prônant les bonnes pratiques et la philosophie DevOps - Développement de solutions logicielles complexes dans de nombreux langages modernes - Architecture système Cloud (Google Cloud Platform) - Sécurité des systèmes et des processus - Automatisation des processus de développement (CI/CD, GitOps, etc.)",
+      "highlights": [
+        "Président de BDBT"
+      ]
+    },
+    {
+      "company": "Liberty Global",
+      "position": "Chef d'équipe - DevOps Cloud & Automatisation",
+      "website": "",
+      "startDate": "2020-11-01",
+      "summary": "J'ai été responsable de l'équipe Data Automatisation, où j'ai géré l'automatisation des solutions pour notre plateforme Big Data interne à l'échelle mondiale 'Operational Data Hub'. Certaines responsabilités ont été la construction et le fonctionnement de notre plateforme CI/CD, la création et la maintenance d'un outil de surveillance de production interne utilisant ReactJS, un GraphQL Hub et le soutien de nombreuses équipes en préconisant les meilleures pratiques pour l'architecture logicielle.",
+      "highlights": [
+        "Chef d'équipe, responsable du Pôle Automatisation"
+      ],
+      "endDate": "2023-11-01"
+    },
+    {
+      "company": "Liberty Global",
+      "position": "Ingénieur DevOps",
+      "website": "",
+      "startDate": "2017-09-01",
+      "summary": "Construction et maintenance d'une plateforme interne d'analyse Big Data, en utilisant des technologies telles que Apache Kafka, Docker, ElasticStack et Spark Streaming.",
+      "highlights": [
+        "Création d'un outil Full-Stack ReactJS + GraphQL, nominé pour "
+      ],
+      "endDate": "2020-11-01"
+    },
+    {
+      "company": "dejamobile",
+      "position": "Ingénieur DevOps - Automatisation et Infrastructure",
+      "website": "",
+      "startDate": "2016-09-01",
+      "summary": "Responsable du re-design des processus internes de développement par l'utilisation de technologies telles que VSphere, Docker, Ansible et Vagrant pour automatiser au maximum la conception, le déploiement et les validations de notre solution de Paiement-en-cloud pour nos clients bancaires.",
+      "highlights": [],
+      "endDate": "2017-08-01"
+    },
+    {
+      "company": "Juniper Networks",
+      "position": "Ingénieur en automatisation - DevOps",
+      "website": "",
+      "startDate": "2016-06-01",
+      "summary": "Développement d'applications via Django (Python3) et mise en place d'un nouveau mode de développement pour une équipe senior. Mise en place des bonnes pratiques Git + CI/CD et conteneurisation pour le Laboratoire 'Proof of Concept', le fleuron de l'innovation européenne de Juniper Networks à Amsterdam. Invité à présenter cette méthodologie au Juniper Tech Summit à Berlin en 2016.",
+      "highlights": [],
+      "endDate": "2016-08-01"
+    },
+    {
+      "company": "BodyCap",
+      "position": "Ingénieur en formation - Développeur",
+      "website": "",
+      "startDate": "2014-09-01",
+      "summary": "Développement de capteurs miniaturisés pour le domaine médical sur microcontrôleurs 8 bits, d'applications GUI utilisant le Framework Qt C++ et automatisation de notre processus technique en déployant une plateforme CI/CD et en y déplaçant notre processus.",
+      "highlights": [],
+      "endDate": "2016-08-01"
+    },
+    {
+      "company": "BodyCap",
+      "position": "Développeur",
+      "website": "",
+      "startDate": "2013-09-01",
+      "summary": "Alternance dans le cadre de ma Licence professionnelle",
+      "highlights": [],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "Génilie",
+      "position": "Hôte d'accueil",
+      "website": "",
+      "startDate": "2013-07-01",
+      "summary": "Accueil des festivaliers au sein du Stand RIFFX (Crédit Mutuel)",
+      "highlights": [],
+      "endDate": "2013-07-01"
+    },
+    {
+      "company": "Alfanet Services",
+      "position": "Développeur",
+      "website": "",
+      "startDate": "2012-05-01",
+      "summary": "Développement d'une application IHM en C#",
+      "highlights": [],
+      "endDate": "2012-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENSICAEN",
+      "area": "",
+      "studyType": "Ingénieur",
+      "startDate": "2014-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "IUT Mesures Physiques de Caen",
+      "area": "",
+      "studyType": "Licence Professionnelle",
+      "startDate": "2013-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Institut Lemonnier",
+      "area": "",
+      "studyType": "BTS IRIS",
+      "startDate": "2011-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2013-01-01"
+    },
+    {
+      "institution": "Lycée Cours Notre Dame, Douvres la Délivrande",
+      "area": "",
+      "studyType": "Baccalauréat Scientifique",
+      "startDate": "2008-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2011-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "DevSecOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intégration continue et livraison continue (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture des systèmes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud hybride",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big data",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement full-stack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle ou bilingue"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Langue maternelle ou bilingue"
+    },
+    {
+      "language": "Allemand",
+      "fluency": "Compétence élémentaire"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "TOEIC 910",
+      "date": "2018-06-01",
+      "issuer": "Educational Testing Service (ETS)",
+      "url": ""
+    },
+    {
+      "name": "Juniper Networks - Networking Fundamentals",
+      "date": "2018-06-01",
+      "issuer": "Juniper Networks",
+      "url": "http://docdro.id/WFK5yXu"
+    },
+    {
+      "name": "Reliable Google Cloud Infrastructure: Design and Process",
+      "date": "2022-06-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/XZTNGAM48DGM"
+    },
+    {
+      "name": "Developing a Google SRE Culture",
+      "date": "2022-06-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/9YTD6Q8THGRN"
+    },
+    {
+      "name": "Google Cloud Fundamentals: Core Infrastructure",
+      "date": "2022-06-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/43SKZXJPNC8X"
+    }
+  ]
+}

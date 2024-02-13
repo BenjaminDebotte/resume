@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "puppeteer": "^22.0.0",
+    "resumed": "^3.0.1"
+  },
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "render": "resumed render --theme jsonresume-theme-kendall",
+    "pdf": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
